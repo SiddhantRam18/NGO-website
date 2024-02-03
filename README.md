@@ -17,3 +17,9 @@ This project presents an interactive website designed and developed for Pasaydan
 1. Clone the repository: `git Clone https://github.com/SiddhantRam18/NGO-website`
 
 2. To explore the site, open the "index.html" file in your browser.
+# Credits
+This project was developed with passion and dedication by [Your Name]. Special thanks to Pasaydan Seva Prakalp for the opportunity to collaborate on this meaningful project.
+
+Please contact me if you have any questions or comments.
+
+Happy research!
