@@ -13,3 +13,7 @@ This project presents an interactive website designed and developed for Pasaydan
 - HTML: Content is structured to ensure a smooth and easy user experience.
 
 - CSS: Applied styling improves visual appeal and maintains a consistent look across the site.
+# Instructions
+1. Clone the repository: `git Clone https://github.com/SiddhantRam18/NGO-website`
+
+2. To explore the site, open the "index.html" file in your browser.
